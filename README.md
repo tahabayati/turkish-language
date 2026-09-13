@@ -1,5 +1,7 @@
 # Turkish Vocabulary Logger
 
+A small hobby project I made while learning Turkish. I was already using Google Sheets to add vocabulary, so I decided to build a simple tool with the free tools available to me. There are probably much more polished projects for this, but I wanted to share mine too. I hope it helps, and good luck with your own language-learning journey!
+
 A small, self-hosted vocabulary logger built for learning Turkish. Look up a word, refine its meaning and notes, and save it to a Google Sheet you control.
 
 It is not a shared service: every installation uses its own Google Sheet and Apps Script webhook. Nothing from your sheet is stored in this repository.
