@@ -23,12 +23,16 @@ The script creates the header row on its first use. Keep the spreadsheet and dep
 
 ### 2. Run locally
 
+To use the project as-is, clone it:
+
 ```bash
-git clone https://github.com/YOUR-USERNAME/turkish-language.git
+git clone https://github.com/tahabayati/turkish-language.git
 cd turkish-language
 npm install
 cp .env.example .env.local
 ```
+
+To keep your own GitHub version or make changes, fork the repository first, then clone your fork instead. Your fork can use its own Google Sheet and Vercel project.
 
 Set your Apps Script URL in `.env.local`:
 
